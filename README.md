@@ -48,4 +48,7 @@ This project demonstrates a **monitoring setup** using **Prometheus** and **Graf
 - Systemd
 - Git & GitHub
 
+
+
+awsvms.jpgnode_exporter.jpgprometheussytemctl.jpggrafana2.jpgprometheus1.jpgprometheus.jpggrafana1.jpg
 ---
