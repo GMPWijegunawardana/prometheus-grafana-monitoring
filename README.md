@@ -48,7 +48,21 @@ This project demonstrates a **monitoring setup** using **Prometheus** and **Graf
 - Systemd
 - Git & GitHub
 
+---
 
+## **Work Flow**
 
-awsvms.jpgnode_exporter.jpgprometheussytemctl.jpggrafana2.jpgprometheus1.jpgprometheus.jpggrafana1.jpg
+![monitoring](https://github.com/user-attachments/assets/6be7d252-0393-4e80-adc2-32c854ea62e9)
+
+---
+![awsvms](https://github.com/user-attachments/assets/42452e29-ff74-4a5c-a99e-3d1cf1122ac3)
+
+---
+![grafana2](https://github.com/user-attachments/assets/e460eab1-2869-4a8b-9462-6f82719b7b09)
+
+---
+![prometheus](https://github.com/user-attachments/assets/2e8f4c21-8f5d-4e62-9985-8a80d3f7031d)
+
+![node_exporter](https://github.com/user-attachments/assets/3f6f5553-163e-400b-8e7f-946b66990692)
+
 ---
